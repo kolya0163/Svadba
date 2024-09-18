@@ -1,0 +1,11 @@
+.section-title {
+  margin: 0;
+  max-width: 100%;
+  color: #943E41;
+  font-weight: 400;
+  font-family: 'Leo', 'Inter', Arial, Helvetica;
+  font-size: 22px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  line-height: 1.21;
+}
